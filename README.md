@@ -1,2 +1,2 @@
 # Final-Competition
-Files pertaining to the competition 
+This repository contains files pertaining to the competition. 
